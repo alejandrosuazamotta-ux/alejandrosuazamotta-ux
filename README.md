@@ -45,12 +45,14 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 
 ### <h2>⚙️ Github stats:</h2> 
 
+### <h2>⚙️ Github stats:</h2> 
+
 <p align="center">
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedinaPedroDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/alejandrosuazamotta-ux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandrosuazamotta-ux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MedinaPedroDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MedinaPedroDev&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/alejandrosuazamotta-ux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandrosuazamotta-ux&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
