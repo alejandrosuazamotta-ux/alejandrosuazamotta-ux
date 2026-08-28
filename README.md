@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a Software Analysis and Development technologist; I graduated from SENA 🎓. I am passionate about web programming and have knowledge of both front-end and back-end development. I love learning and creating new, creative, and productive things. I adore coffee ☕ and cold weather 🥶.
+I am a Software Analysis and Development technologist; I graduated from SENA 🎓. I have 6 months of hands-on experience developing functional web applications and backend systems. I am passionate about web programming and have knowledge of both front-end and back-end development. I love learning and creating new, creative, and productive things. I adore coffee ☕ and cold weather 🥶.
 
 - 🌱 I’m currently learning ...
     -TypeScript
@@ -54,6 +54,13 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 
 <p align="center">
   <img src="https://github.com/alejandrosuazamotta-ux/alejandrosuazamotta-ux/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alejandro-suaza-726580409/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto: alejandrosuazamotta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
