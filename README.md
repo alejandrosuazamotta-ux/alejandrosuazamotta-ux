@@ -17,7 +17,7 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 - 💡 I like to explore new technologies and learn new things.
 - 💬 Ask me anything, I'll be happy to help you if I can or we can talk.
 - 🕹In my free time I like to play video games and watch movies.
-- 📫 Reach out to me at: medinamacho27@gmail.com
+- 📫 Reach out to me at: aeljandrosuazamotta@gmail.com
 
 <h2 align="left" >My Skills Include</h2>
 
