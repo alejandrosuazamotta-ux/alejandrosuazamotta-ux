@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hey there! I'm Alejandro Suaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Alejandro Suaza -->
@@ -17,7 +14,7 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 - 💡 I like to explore new technologies and learn new things.
 - 💬 Ask me anything, I'll be happy to help you if I can or we can talk.
 - 🕹In my free time I like to play video games and watch movies.
-- 📫 Reach out to me at: aeljandrosuazamotta@gmail.com
+- 📫 Reach out to me at: alejandrosuazamotta@gmail.com
 
 <h2 align="left" >My Skills Include</h2>
 
