@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a TSU in Computer Science, recently graduated from the Jesús Obrero University Institute (IUJO) 🎓. I love web programming, I have knowledge of both front-end and back-end development. I love learning and creating something new, creative and productive. I love coffee ☕ and cold 🥶.
+I am a Software Analysis and Development technologist; I graduated from SENA 🎓. I am passionate about web programming and have knowledge of both front-end and back-end development. I love learning and creating new, creative, and productive things. I adore coffee ☕ and cold weather 🥶.
 
 - 🌱 I’m currently learning ...
     -TypeScript
