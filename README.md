@@ -18,8 +18,6 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 
 <h2 align="left" >My Skills Include</h2>
 
-
-
 ### 🛠 &nbsp;Tech Stack
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -45,8 +43,6 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 
 ### <h2>⚙️ Github stats:</h2> 
 
-### <h2>⚙️ Github stats:</h2> 
-
 <p align="center">
   <a href="https://github.com/alejandrosuazamotta-ux">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandrosuazamotta-ux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -57,10 +53,15 @@ I am a Software Analysis and Development technologist; I graduated from SENA �
 </p>
 
 <p align="center">
-  <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://github.com/alejandrosuazamotta-ux/alejandrosuazamotta-ux/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alejandro-suaza-726580409/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto: alejandrosuazamotta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-suaza-726580409/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
